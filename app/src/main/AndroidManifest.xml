@@ -13,13 +13,28 @@
         android:theme="@style/Theme.Paytm"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".paymentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".paymentResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".upiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".scannerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".splashActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
         </activity>
     </application>
 
