@@ -7,6 +7,10 @@ android {
     namespace = "com.example.paytm"
     compileSdk = 35
 
+    viewBinding{
+        enable=true
+    }
+
     defaultConfig {
         applicationId = "com.example.paytm"
         minSdk = 34
@@ -44,13 +48,19 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+    implementation(libs.billing)
+    implementation(libs.androidx.media3.transformer)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
+    implementation(libs.barcode.scanning)
+    implementation("com.google.mlkit:barcode-scanning:17.0.2")
+    implementation("androidx.camera:camera-core:1.1.0")
+    implementation("androidx.camera:camera-camera2:1.1.0")
+    implementation("androidx.camera:camera-lifecycle:1.1.0")
+    implementation("androidx.camera:camera-view:1.1.0")
     implementation(libs.lottie)
-    implementation(libs.zxing.android.embedded)
-    implementation(libs.zxing.android.embedded)
     implementation(libs.core)
     implementation(libs.shimmer)
 

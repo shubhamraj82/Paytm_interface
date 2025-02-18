@@ -1,6 +1,8 @@
 [versions]
 agp = "8.8.1"
+barcodeScanning = "17.3.0"
 codeScanner = "2.3.0"
+codeScannerVersion = "2.1.0"
 core = "3.4.1"
 kotlin = "1.9.24"
 coreKtx = "1.15.0"
@@ -14,9 +16,13 @@ activity = "1.10.0"
 constraintlayout = "2.2.0"
 shimmer = "0.5.0"
 zxingAndroidEmbedded = "4.3.0"
+billing = "1.0.0-alpha11"
+media3Transformer = "1.5.1"
 
 [libraries]
+android-code-scanner = { module = "com.budiyev.android:code-scanner", version.ref = "codeScannerVersion" }
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+barcode-scanning = { module = "com.google.mlkit:barcode-scanning", version.ref = "barcodeScanning" }
 code-scanner = { module = "com.github.yuriy-budiyev:code-scanner", version.ref = "codeScanner" }
 core = { module = "com.google.zxing:core", version.ref = "core" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
@@ -29,6 +35,8 @@ androidx-activity = { group = "androidx.activity", name = "activity", version.re
 androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
 shimmer = { module = "com.facebook.shimmer:shimmer", version.ref = "shimmer" }
 zxing-android-embedded = { module = "com.journeyapps:zxing-android-embedded", version.ref = "zxingAndroidEmbedded" }
+billing = { group = "com.google.androidbrowserhelper", name = "billing", version.ref = "billing" }
+androidx-media3-transformer = { group = "androidx.media3", name = "media3-transformer", version.ref = "media3Transformer" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
