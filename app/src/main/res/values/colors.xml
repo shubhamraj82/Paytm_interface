@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- normal colors -->
+
+    <color name="black">#000001</color>
+    <color name="white">#FFFFFFFE</color>
+    <color name="brown">#171717</color>
+    <color name="blachite">#7F7E7E</color>
+    <color name="yellow">#EC8404</color>
+    <color name="blue">#22AEFA</color>
+    <color name="text">#C3C3C3</color>
+    <color name="green">#379F19</color>
+    <color name="red">#F14545</color>
+    <color name="purple">#7345F1</color>
+    <color name="paytm_blue">#1A256E</color>
+    <color name="blue_bg">#DAF1FB</color>
+
+    <!-- transparent colors -->
+
+    <color name="black_trans">#C3060606</color>
+    <color name="trans">#0000</color>
+
+    <!-- foreground colors -->>
+
+    <color name="red_fg">#FCB58E93</color>
+    <color name="blue_fg">#BC92B6</color>
+    <color name="green_fg">#ACC1A3</color>
+    <color name="teal_fg">#A6C3C3</color>
+    <color name="yellow_fg">#BAB39F</color>
+
+    <color name="fg_toggle">#3D868684</color>
+    <color name="fg_toggle_light">#24868684</color>
+    <color name="fg_toggle_dark">#56848483</color>
+
+    <!-- background colors -->
+
+    <color name="yellow_bg">#231C01</color>
+    <color name="yellow_bg_l">#231C01</color>
+    <color name="teal_bg">#001919</color>
+    <color name="green_bg">#041700</color>
+    <color name="red_bg">#220208</color>
+
+</resources>

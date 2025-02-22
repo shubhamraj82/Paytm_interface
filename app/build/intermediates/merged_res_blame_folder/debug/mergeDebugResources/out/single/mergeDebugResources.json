@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_payments_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/payments_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_gas_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/gas_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_money.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/money.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/xml_backup_rules.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_wealth_nav.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/wealth_nav.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_recent_nav.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/recent_nav.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_result.jpeg.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/result.jpeg"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_load_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/load_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_cashback.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/cashback.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/layout_activity_payment_result.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_payment_result.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_banner.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/banner.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_scan_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/scan_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_tick.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/tick.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/layout_activity_scanner.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_scanner.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_splash.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/splash.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_bank.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/bank.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_card.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/card.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_user.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/user.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/layout_activity_payment.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_paytm.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/paytm.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_contacts_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/contacts_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_profile.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/profile.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/layout_activity_splash.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_qr.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/qr.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_outline_40.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/outline_40.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_invest.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/invest.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_notification.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/notification.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_upi_icon.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/upi_icon.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_shield.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/shield.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_recharge_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/recharge_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_outline_scanner.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/outline_scanner.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_shopping_nav.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/shopping_nav.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/raw_verified.json.flat",
+        "source": "com.android.paytmclone.app-main-37:/raw/verified.json"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_search.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/search.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_scan_nav.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/scan_nav.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_rupay_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/rupay_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_header.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/header.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_cancel.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/cancel.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_balance_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/balance_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_more_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/more_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_backspace.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/backspace.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_upi_lite.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/upi_lite.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_contacts.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/contacts.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_loan.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/loan.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_outline.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/outline.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/layout_activity_upi.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_upi.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_auto_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/auto_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_torch.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/torch.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_upi_logo.jpg.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/upi_logo.jpg"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_upi.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/upi.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_postpaid_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/postpaid_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_check.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/check.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_broadband_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/broadband_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/raw_loader.json.flat",
+        "source": "com.android.paytmclone.app-main-37:/raw/loader.json"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_redeem_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/redeem_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/raw_ring.mp3.flat",
+        "source": "com.android.paytmclone.app-main-37:/raw/ring.mp3"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_card_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/card_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_movie_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/movie_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_down_arrow.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/down_arrow.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/raw_scan.json.flat",
+        "source": "com.android.paytmclone.app-main-37:/raw/scan.json"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_sbi.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/sbi.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_playstore_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/playstore_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_arrow.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/arrow.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_cylinder_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/cylinder_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_insurance.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/insurance.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_cashback_nav.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/cashback_nav.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_bank_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/bank_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/drawable_loan_menu.png.flat",
+        "source": "com.android.paytmclone.app-main-37:/drawable/loan_menu.png"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.android.paytmclone.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.android.paytmclone.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

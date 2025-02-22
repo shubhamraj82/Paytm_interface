@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PaytmClone" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/paytm_blue</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" tools:ignore="NewApi">true</item>
+    </style>
+
+    <style name="Theme.PaytmClone" parent="Base.Theme.PaytmClone" />
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.android.paytmclone.app-mergeDebugResources-34:/layout/activity_upi.xml",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_upi.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-mergeDebugResources-34:/layout/activity_payment_result.xml",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_payment_result.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-mergeDebugResources-34:/layout/activity_payment.xml",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-mergeDebugResources-34:/layout/activity_scanner.xml",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_scanner.xml"
+    },
+    {
+        "merged": "com.android.paytmclone.app-mergeDebugResources-34:/layout/activity_splash.xml",
+        "source": "com.android.paytmclone.app-main-37:/layout/activity_splash.xml"
+    }
+]
